@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Elixir, Phoenix framework, Erlang
 - 📫 How to reach me ... [twitter](https://twitter.com/iamsandeshsoni), [linkedIn](https://www.linkedin.com/in/sandeshsoni/), [website](https://sandeshsoni.com/)
 - I am based in Pune, India. Timezone UTC + 5:30.
+- I have a team of developers including Reactjs, Figma, GraphQL, Elixir, Phoenix LiveView, React Native.
 
 <!---
 sandeshsoni/sandeshsoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
